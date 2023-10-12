@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(25, 237, 212);
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5) ;
+}
+
+
+
+.container{
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    border: white;
+    z-index: 10;
+    box-shadow: 6px 9px 15px black;
+}
+
+#checkButton{
+    border-radius: 20px;
+}
